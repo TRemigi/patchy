@@ -1,0 +1,19 @@
+# Register bricks which can be consumed via the Mason CLI.
+# https://github.com/felangel/mason
+bricks:
+  use_case_files:
+    git:
+      url: https://github.com/LendioDevs/flutter-mason-bricks.git
+      path: bricks/use_case_files
+  page_files:
+    git:
+      url: https://github.com/LendioDevs/flutter-mason-bricks.git
+      path: bricks/page_stack_files
+  feature_module:
+    git:
+      url: https://github.com/LendioDevs/flutter-mason-bricks.git
+      path: bricks/feature_module
+  service_module:
+    git:
+      url: https://github.com/LendioDevs/flutter-mason-bricks.git
+      path: bricks/service_module
