@@ -1,0 +1,10 @@
+export 'src/configuration/navigation/phone/phone_navigation.dart';
+export 'src/configuration/navigation/phone/phone_routes.dart';
+export 'src/configuration/navigation/tablet/tablet_navigation.dart';
+export 'src/configuration/navigation/tablet/tablet_routes.dart';
+export 'src/configuration/translation/local_translation_service.dart';
+export 'src/service/test_service_impl.dart';
+export 'src/view/phone/home_page/home_page.dart';
+export 'src/view/tablet/tablet_page/tablet_page.dart';
+export 'src/view/tablet/tablet_page/tablet_page_controller.dart';
+export 'src/view/tablet/tablet_page/tablet_page_presenter.dart';
